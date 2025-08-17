@@ -8,11 +8,10 @@ This project is about a mobile application in Flutter / Dart with some health tr
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/><br />
   <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
 ```
-<br />
-for the camera and photo library access permission handling in android phones <br />
+<br />for the camera and photo library access permission handling in android phones <br />
 
 
-and for the iphones you need to go to ..\ios\Runner\Info.plist and inside the "<dict> category add: <br />
+2->and for the iphones you need to go to ..\ios\Runner\Info.plist and inside the "<dict> category add: <br />
     ```
     <key>NSCameraUsageDescription</key> <br />
     <string>We need to access your camera to upload photos</string> <br />
