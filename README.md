@@ -3,15 +3,15 @@ This project is about a mobile application in Flutter / Dart with some health tr
 
 extra steps you need to take: 
 1-> you need to go to the ..\android\app\src\main\AndroidManifest.xml and add the following 3 lines:
-  <uses-permission android:name="android.permission.CAMERA"/>
+  "<uses-permission android:name="android.permission.CAMERA"/>
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
-  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>"
 for the camera and photo library access permission handling in android phones
 and for the iphones you need to go to ..\ios\Runner\Info.plist and inside the "<dict> category add:
-    <key>NSCameraUsageDescription</key>
+    "<key>NSCameraUsageDescription</key>
     <string>We need to access your camera to upload photos</string>
     <key>NSPhotoLibraryUsageDescription</key>
-    <string>We need to access your photo library to upload images</string>
+    <string>We need to access your photo library to upload images</string>"
 
     !! If you want to change any icon etc just change the assets folder and edit the pubspec.yaml correspondingly . Once you do that run "pub get"  !!
 
