@@ -1,0 +1,16 @@
+[
+  {
+    "Date": "May 2001",
+    "Immunization Name": "Influenza virus vaccine, IM",
+    "Type": "Intramuscular injection",
+    "Dose Quantity": "50 mcg",
+    "Instructions": "Possible flu-like symptoms for three days"
+  },
+  {
+    "Date": "April 2000",
+    "Immunization Name": "Tetanus and diphtheria toxoids, IM",
+    "Type": "Intramuscular injection",
+    "Dose Quantity": "50 mcg",
+    "Instructions": "Mild pain or soreness in the local area"
+  }
+]

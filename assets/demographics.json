@@ -1,0 +1,12 @@
+[
+  { "label": "First Name", "value": "Ellen" },
+  { "label": "Last Name", "value": "Ross" },
+  { "label": "Gender", "value": "Female" },
+  { "label": "Marital Status", "value": "Married" },
+  { "label": "Religious Affiliation", "value": "Christian" },
+  { "label": "Ethnicity", "value": "Asian" },
+  { "label": "Language Spoken", "value": "English" },
+  { "label": "Address", "value": "17 Daws Road, Portland, OR 97006" },
+  { "label": "Telephone", "value": "415-555-1229" },
+  { "label": "Birthday", "value": "March 7, 1960" }
+]

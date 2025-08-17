@@ -1,0 +1,20 @@
+[
+  {
+    "Date": "March 28, 2005",
+    "Type": "Liquid",
+    "Name": "Acetaminophen with codeine",
+    "Instructions": "2 puffs once a day",
+    "Dose Quantity": "2 puffs",
+    "Rate Quantity": "1 per day",
+    "Prescriber": "Ashby Medical Center"
+  },
+  {
+    "Date": "December 10, 2003",
+    "Type": "Tablet",
+    "Name": "Indomethacin",
+    "Instructions": "50mg bid with food",
+    "Dose Quantity": "50 mg",
+    "Rate Quantity": "2 per day",
+    "Prescriber": "Ashby Medical Center"
+  }
+]

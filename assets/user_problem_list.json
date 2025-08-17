@@ -1,0 +1,14 @@
+[
+  {
+    "Observation": "Ankle Sprain",
+    "Status": "Active",
+    "Date": "March 28, 2005",
+    "Comments": "Slipped on ice and fell."
+  },
+  {
+    "Observation": "Cholecystitis",
+    "Status": "Resolved",
+    "Date": "September 28, 2002",
+    "Comments": "Surgery postponed until after delivery."
+  }
+]
