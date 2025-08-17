@@ -11,7 +11,7 @@ This project is about a mobile application in Flutter / Dart with some health tr
 <br />
 
 
-2->and for the iphones you need to go to ..\ios\Runner\Info.plist and inside the ```<dict>``` category add: <br />
+2->and for the iphones you need to go to ..\ios\Runner\Info.plist and inside the ```<dict>``` category and add: <br />
  ```
     <key>NSCameraUsageDescription</key> 
     <string>We need to access your camera to upload photos</string> 
