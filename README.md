@@ -2,13 +2,13 @@
 This project is about a mobile application in Flutter / Dart with some health tracking records.
 
 ## Extra steps you need to take: <br />
-1-> you need to go to the ..\android\app\src\main\AndroidManifest.xml and add the following 3 lines:<br />
+1-> you need to go to the ..\android\app\src\main\AndroidManifest.xml and add the following 3 lines for the camera and photo library access permission handling in android phones :<br />
 ```
   <uses-permission android:name="android.permission.CAMERA"/><br />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/><br />
   <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
 ```
-<br />for the camera and photo library access permission handling in android phones <br />
+<br />
 
 
 2->and for the iphones you need to go to ..\ios\Runner\Info.plist and inside the "<dict> category add: <br />
