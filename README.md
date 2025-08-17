@@ -1,7 +1,7 @@
 # Personal-Health-Record-Tracking-App-For-Mobile
 This project is about a mobile application in Flutter / Dart with some health tracking records.
 
-##extra steps you need to take: <br />
+## Extra steps you need to take: <br />
 1-> you need to go to the ..\android\app\src\main\AndroidManifest.xml and add the following 3 lines:<br />
 ```
   <uses-permission android:name="android.permission.CAMERA"/><br />
